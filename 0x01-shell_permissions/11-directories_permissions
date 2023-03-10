@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x $(find /path/to/directory -type d)
+chmod -R +x
