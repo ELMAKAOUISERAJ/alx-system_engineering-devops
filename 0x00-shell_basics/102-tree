@@ -1,3 +1,6 @@
 #!/bin/bash
 mkdir -p welcome/to/school
+<<<<<<< HEAD
 
+=======
+>>>>>>> ef9c6f436825ad74ddfea0bff8fc5b4d4d553663
